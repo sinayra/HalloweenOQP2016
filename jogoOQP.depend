@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1478495316 source:c:\users\nayra\desktop\jogooqp\main.cpp
+	<playAPC/playapc.h>
+	<iostream>
+	"stateGame.h"
+	"stateCutscene.h"
+
+1478479858 c:\users\nayra\desktop\jogooqp\utils.h
+	<time.h>
+	<playAPC/playapc.h>
+
+1478485940 c:\users\nayra\desktop\jogooqp\stategame.h
+	<playAPC/playapc.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	"utils.h"
+
+1478495291 c:\users\nayra\desktop\jogooqp\statecutscene.h
+	<playAPC/playapc.h>
+	<string>
+	<sstream>
+	"utils.h"
+
+1478496607 source:c:\users\nayra\desktop\jogooqp\statecutscene.cpp
+	"stateCutscene.h"
+
+1478496646 source:c:\users\nayra\desktop\jogooqp\stategame.cpp
+	"stateGame.h"
+	<iostream>
+
+1478485869 source:c:\users\nayra\desktop\jogooqp\utils.cpp
+	"utils.h"
+
